@@ -1,7 +1,7 @@
-This project presents an application for plotting relations with two variables, onto bitmap image files.
+cThis project presents an application for plotting relations with two variables, onto bitmap image files.
 The given relation need not be a function.
 
-The application is written in C, in the October of 2014, in the middle of my third semester at the Bogazici University,
+The application is written in C, in the October of 2014, in the middle of my third semester at the Boğaziçi University,
 and my first semester at the Computer Engineering department.
 It was an application developed out of self-interest, and in response to a recommendation of a friend.
 
