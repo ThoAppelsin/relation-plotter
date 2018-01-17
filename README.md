@@ -1,4 +1,4 @@
-cThis project presents an application for plotting relations with two variables, onto bitmap image files.
+This project presents an application for plotting relations with two variables, onto bitmap image files.
 The given relation need not be a function.
 
 The application is written in C, in the October of 2014, in the middle of my third semester at the Boğaziçi University,
@@ -22,12 +22,12 @@ Inequalities, such as filled circles, may also be plotted.
 
 The application is unfortunately not an interactive one, which may be changed in an upcoming version.
 As it is, it draws a list of relations represented by functions in C language.
-As an example, the circle with radius 4 ventered at the origin would have a C function as follows:
+As an example, the circle with radius 4 centered at the origin would have a C function as follows:
 
 ```c
 double rad4circle( double y, double x )
 {
-	return y * y + x * x - 16;
+    return y * y + x * x - 16;
 }
 ```
 
