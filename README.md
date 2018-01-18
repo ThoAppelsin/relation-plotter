@@ -9,11 +9,11 @@ It was an application developed out of self-interest, and in response to a recom
 
 Given a relation of the form:
 
-> <img src="http://www.sciweavers.org/tex2img.php?eq=r%28x%2C%20y%29%20%3D%200&bc=White&fc=Black&im=jpg&fs=18&ff=modern&edit=0" align="center" border="0" alt="r(x, y) = 0" width="117" height="29" />
+> <img src="http://mathurl.com/y8zfgxnn.png" align="center" border="0" alt="r(x, y) = 0" />
 
 such as a circle with radius of 4 units:
 
-> <img src="http://www.sciweavers.org/tex2img.php?eq=x%5E2%20%2B%20y%5E2%20-%2016%20%3D%200&bc=White&fc=Black&im=jpg&fs=18&ff=modern&edit=0" align="center" border="0" alt="x^2 + y^2 - 16 = 0" width="179" height="29" />
+> <img src="http://mathurl.com/yc8jcrn2.png" align="center" border="0" alt="x^2 + y^2 - 16 = 0" />
 
 this application plots the set of points satisfying the relation.
 Inequalities, such as filled circles, may also be plotted.
